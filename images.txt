@@ -1,2 +1,4 @@
 nginx
 redis/redis-stack
+redis/redis-stack-server
+redis
