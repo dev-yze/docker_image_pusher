@@ -1,4 +1,4 @@
-nginx
+clickhouse/clickhouse-server
 redis/redis-stack
 redis/redis-stack-server
 redis
