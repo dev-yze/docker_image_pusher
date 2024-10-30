@@ -21,7 +21,6 @@
 
 #homeassistant/home-assistant:2024.10.3
 
-
 eclipse-temurin:21.0.5_11-jdk
 eclipse-temurin:8-jdk-alpine
 eclipse-temurin:8u432-b06-jdk-alpine
