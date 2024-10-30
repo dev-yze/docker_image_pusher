@@ -19,4 +19,17 @@
 #redis/redis-stack-server:6.2.6-v17-arm64
 #redis/redis-stack-server:6.2.6-v17-x86_64
 
-homeassistant/home-assistant:2024.10.3
+#homeassistant/home-assistant:2024.10.3
+
+
+eclipse-temurin:21.0.5_11-jdk
+eclipse-temurin:8-jdk-alpine
+eclipse-temurin:8u432-b06-jdk-alpine
+eclipse-temurin:21.0.5_11-jdk-alpine
+eclipse-temurin:11.0.25_9-jdk
+eclipse-temurin:11.0.25_9-jdk-alpine
+eclipse-temurin:17.0.13_11-jdk
+eclipse-temurin:17.0.13_11-jdk-alpine
+
+
+
