@@ -31,12 +31,15 @@
 #eclipse-temurin:17.0.13_11-jdk-alpine
 
 
-mysql:8.0.40
-mysql:8.0
-mysql:9.0.1
-mysql:8.4.2
-mysql:9.0
-mysql:5.7.44
+#mysql:8.0.40
+#mysql:8.0
+#mysql:9.0.1
+#mysql:8.4.2
+#mysql:9.0
+#mysql:5.7.44
+
+
+nacos/nacos-server:2.5.1
 
 
 
