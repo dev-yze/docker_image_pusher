@@ -40,7 +40,7 @@
 #mysql:5.7.44
 
 
-nacos/nacos-server:v2.4.2
+nacos/nacos-server:v2.3.2
 
 
 
