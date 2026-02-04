@@ -39,7 +39,9 @@
 #mysql:9.0
 #mysql:5.7.44
 
-n8nio/n8n:1.99.1
+#n8nio/n8n:1.99.1
 
 #nacos/nacos-server:v2.3.2
+
+postgres:16-bookworm
 
